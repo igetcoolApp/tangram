@@ -11,9 +11,9 @@ title                    : "Tangram"
 title_separator          : "-"
 name                     : "Tangram" # &name is a YAML anchor which can be *referenced later
 description              : "Tangram 七巧板 —— Android & iOS"
-url                      : https://igetcoolapp.github.io/tangram # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://snddapp.github.io/tangram # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "igetcoolapp/tangram"
+repository               : "snddApp/tangram"
 #teaser                   : "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
